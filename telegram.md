@@ -38,5 +38,4 @@ But this hack worked, so why bother.
 
 In general, the entire thing looks like a *post-factum* protocol. Like it evolved while a gang of ACM ICPC geniuses was hacking
 their codebase into production. Very fast, very dirty, but it works. This is what ICPC is about.
-Normally, such hacky architectures evolve into a spaghetti ball and then they don't evolve anymore.
-In either case, it is tightly coupled to a particular codebase.
+
